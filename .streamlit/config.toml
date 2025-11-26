@@ -8,3 +8,6 @@ base = "light"
 
 [server]
 headless = true
+
+[runner]
+python_version = "3.11"
