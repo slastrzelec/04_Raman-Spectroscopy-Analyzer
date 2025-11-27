@@ -108,8 +108,7 @@ st.markdown('<h1 class="main-header">📊 Raman Spectroscopy Analyzer</h1>',
 
 # Sidebar
 with st.sidebar:
-    st.image("https://via.placeholder.com/300x100/1f77b4/ffffff?text=Raman+Analyzer", 
-             use_container_width=True)
+    st.header("🔬 Raman Spectroscopy Analyzer")
     
     st.markdown("### 🔬 Navigation")
     
